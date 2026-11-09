@@ -41,6 +41,7 @@ During my final year at university, I worked with a classmate on developing a mo
 -Node.js
 -React Native
 -Expo
+
 **🚀 What I'm building**
 
 I learn best by understanding concepts and putting them into practice. I'm currently working towards building a collection of projects that solve practical problems and demonstrate my growth as a software developer.
