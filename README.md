@@ -49,9 +49,13 @@ I learn best by understanding concepts and putting them into practice. I'm curre
 Some of the projects on my roadmap include:
 
 🔐 Password Generator — A secure, customizable password generator.
+
 💰 Expense Planner — An application for managing and tracking personal expenses.
+
 📚 Student Productivity Dashboard — A practical productivity space for students.
+
 📅 Study Planner — A tool for organizing study schedules and academic tasks.
+
 🛒 E-commerce Applications — Exploring the development of complete online shopping experiences.
 
 More projects and experiments will find their way here as I continue learning and building.
@@ -67,7 +71,9 @@ I'm naturally curious, enjoy figuring things out and believe in learning by doin
 I'm always happy to connect with fellow developers, exchange ideas, learn from others and explore opportunities to collaborate.
 
 📍 Accra, Ghana
+
 💼 LinkedIn: Connect with me
+
 📧 Email: Komlabasilemarko@gmail.com
 
 Building, learning and getting better one project at a time.
