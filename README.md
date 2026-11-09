@@ -84,7 +84,7 @@ I'm always happy to connect with fellow developers, exchange ideas, learn from o
 
 📍 Accra, Ghana
 
-💼 LinkedIn: Connect with me
+💼 LinkedIn: www.linkedin.com/in/basile-komla-wefum-311a7a315 
 
 📧 Email: Komlabasilemarko@gmail.com
 
