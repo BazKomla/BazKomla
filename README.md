@@ -7,6 +7,7 @@ I'm interested in building software that goes beyond being just another digital 
 I'm particularly interested in developing practical digital solutions that respond to everyday challenges in Ghana and across Africa. I believe our markets and communities have their own realities, and the technology we build should take those realities into account.
 
 **👨🏽‍💻 A little about me**
+
 🎓 BSc in Information Technology, Ghana Communication Technology University (2024).
 💡 Interested in building useful, user-focused software applications.
 🌱 Currently strengthening my JavaScript and software development foundations.
