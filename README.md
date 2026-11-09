@@ -1,6 +1,6 @@
 # **Hey, I'm Basile Komla 👋**
 
-## **IT Graduate | Aspiring Software Engineer | Accra, Ghana 🇬🇭**
+ **IT Graduate | Aspiring Software Engineer | Accra, Ghana 🇬🇭**
 
 I'm interested in building software that goes beyond being just another digital product. I believe good software should solve real problems, serve its users and make sense within the context in which it is used.
 
